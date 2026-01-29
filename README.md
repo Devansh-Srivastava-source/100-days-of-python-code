@@ -2,10 +2,10 @@
 My journey to learning python through building projects.
 
 This repository contains my daily projects and exercises from Angela Yu’s "100 Days of Python" course.
-I do code in VS-code and upload almost daily here on github.
+I do code in VS-code and try to upload almost daily here on github.
 
 ## Progress
-✅ Completed up to Day 6
+✅ Completed up to Day 7
 
 ## Structure
 Each folder in this repository represents one day and contains:
